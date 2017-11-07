@@ -1,8 +1,15 @@
 # Table of Contents
 
-You can use the [editor on GitHub](https://github.com/314gb/314gb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* [About Game Buddies](#about-gamebuddies)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
+# About Game Buddies 
+
+BowFolios is a Meteor application providing portfolios for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
 ### Markdown
 
