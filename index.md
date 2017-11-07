@@ -1,15 +1,10 @@
-# Table of Contents
-
-* [About Game Buddies](#about-gamebuddies)
-
-
-
-
-
-
 # About Game Buddies 
 
-BowFolios is a Meteor application providing portfolios for the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
+There are many anti-social gamers at UH Manoa. UH Manoa gamers generally just play with themselves or with their close group of friends prior to college. It is hard to find someone else with the same game interest and time frames of which they can play with each other. Therefore, Game Buddies is an application which tries to help anti-social gamers increase communication and social interaction between each other.
+
+# What will Game Buddies provide?
+
+Game Buddies allows students to login and create a profile indicating their gaming tastes, their gaming capabilities, their gaming goals (playing for fun or competitively / against or with each other), and their gaming times. The profile can include links to their gaming profiles containing their IGN, etc. (Ex. Steam, Blizzard, Maplestory, etc) Once a profile is created, other can browse the profiles filtered by specific gaming tastes, capabilities, goals, and times. Students can also be notified if a match has been found and has the option of contacting the person via the information that the matching person(s) provided. Admins can monitor the site for inappropriate content, create new categories of gaming tastes, goals, capabilities, and to ban anyone who violates the Terms of Use and Conditions. Both student and admins can log in with their UH account. Include a link to a discord page for Game Buddies so that people can interact with each other via a very widely used, popular VoIP application.
 
 ### Markdown
 
