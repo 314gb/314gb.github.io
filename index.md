@@ -9,7 +9,7 @@ There are many anti-social gamers at UH Manoa. UH Manoa gamers generally just pl
 
 Game Buddies allows students to login and create a profile indicating their gaming tastes, their gaming capabilities, their gaming goals (playing for fun or competitively / against or with each other), and their gaming times. The profile can include links to their gaming profiles containing their IGN, etc. (Ex. Steam, Blizzard, Maplestory, etc) Once a profile is created, other can browse the profiles filtered by specific gaming tastes, capabilities, goals, and times. Students can also be notified if a match has been found and has the option of contacting the person via the information that the matching person(s) provided. Admins can monitor the site for inappropriate content, create new categories of gaming tastes, goals, capabilities, and to ban anyone who violates the Terms of Use and Conditions. Both student and admins can log in with their UH account. Include a link to a discord page for Game Buddies so that people can interact with each other via a very widely used, popular VoIP application.
 
-Game Buddies will allow users to find others who want to play a new game that isn't currently found in the database. By allowing the users to actively add information about a particular game and what types of players it needs will make Game Buddies evolve as the community grows.  
+Game Buddies will allow users to find others who want to play a new game that isn't currently found in the database. By allowing the users to actively add information about a particular game, and what types of players it needs, will make Game Buddies evolve as the community grows.  
 
 ## Game Buddies Filter Page:
 ![](images/gamebuddiesdict.PNG)
