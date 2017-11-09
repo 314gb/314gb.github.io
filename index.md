@@ -3,7 +3,7 @@
 There are many anti-social gamers at UH Manoa. UH Manoa gamers generally just play with themselves or with their close group of friends prior to college. It is hard to find someone else with the same game interest and time frames of which they can play with each other. Therefore, Game Buddies is an application which tries to help anti-social gamers increase communication and social interaction between each other.
 
 ## Game Buddies Landing Page:
-![](images/Landing_Page_Screenshot)
+![](images/Landing_Page_Screenshot.png)
 
 # What will Game Buddies provide?
 
