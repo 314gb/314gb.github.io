@@ -13,7 +13,7 @@ Game Buddies will allow users to find others who want to play a new game that is
 
 ![](images/gamebuddiespro.PNG)
 
-Game Buddies allows students to login and create a profile indicating their gaming tastes, their gaming capabilities, their gaming goals (playing for fun or competitively / against or with each other), and their gaming times. The profile can include links to their gaming profiles containing their IGN, etc. (Ex. Steam, Blizzard, Maplestory, etc)  Admins can monitor the site for inappropriate content, create new categories of gaming tastes, goals, capabilities, and to ban anyone who violates the Terms of Use and Conditions. Both student and admins can log in with their UH account. Include a link to a discord page for Game Buddies so that people can interact with each other via a very widely used, popular VoIP application.
+Game Buddies allows students to login and create a profile indicating their gaming tastes, their gaming capabilities, their gaming goals (playing for fun or competitively / against or with each other), and their gaming times. The profile can include links to their gaming profiles containing their IGN, etc. (Ex. Steam, Blizzard, Maplestory, etc)
 
 ![](images/gamebuddiesdict.PNG)
 
