@@ -1,6 +1,6 @@
 # Table of contents
-* [About Game Buddies](#About-Game-Buddies)
-* [What will Game Buddies Provide?](#What-will-Game-Buddies-provide?)
+* [About Game Buddies](#about-game-buddies)
+* [What will Game Buddies Provide?](#what-will-game-buddies-provide?)
 
 # About Game Buddies 
 
