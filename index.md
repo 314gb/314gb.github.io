@@ -9,7 +9,7 @@
 
 There are many anti-social gamers at UH Manoa. UH Manoa gamers generally just play with themselves or with their close group of friends prior to college. It is hard to find someone else with the same game interest and time frames of which they can play with each other. Therefore, Game Buddies is an application which tries to help anti-social gamers increase communication and social interaction between each other.  
 
-![](Landing_Page_Screenshot.png)
+![](images/Landing_Page_Screenshot.png)
 
 Warrior Gamers will allow users to find others who want to play a new game that isn't currently found in the database. By allowing the users to actively add information about a particular game, and what types of players it needs, will make Game Buddies evolve as the community grows.  
 
@@ -48,11 +48,11 @@ This milestone started on December 7 and is still a work in progress.
 The goals of Milestone 1 was to deploy our system to Galaxy, create a landing page, and create four other mockup pages.
 
 ### Deployment
-![](Deployment_ScreenShot.png)
+![](images/Deployment_ScreenShot.png)
 The deployed website can be found at [http://warriorgamers.meteorapp.com/](http://warriorgamers.meteorapp.com/)
 
 ### Landing Page
-![](Landing_Page_Screenshot.png)
+![](images/Landing_Page_Screenshot.png)
 This is our current landing page so far, it is still a work in progress.
 
 ### Mockup Pages
