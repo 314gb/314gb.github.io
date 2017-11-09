@@ -41,11 +41,9 @@ $ meteor npm run start
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login and test the application.
 
 # Development History
-## Milestone 1
-This milestone started on December 7 and is still a work in progress.
 
-### Goals
-The goals of Milestone 1 was to deploy our system to Galaxy, create a landing page, and create four other mockup pages.
+## Milestone 1: Deployment / Landing Page / Mockup Pages
+This milestone started on December 7 and is still a work in progress. The goals of Milestone 1 was to deploy our system to Galaxy, create a landing page, and create four other mockup pages.
 
 ### Deployment
 ![](images/Deployment_ScreenShot.png)
