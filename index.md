@@ -1,21 +1,21 @@
 # Table of contents
-* [About Game Buddies](#about-game-buddies)
+* [About Warrior Gamers](#about-warrior-gamers)
 * [Installation](#installation)
 * [Development History](#development-history)
   * [Milestone 1: Deployment / Landing Page / Mockup Pages](#milestone-1)
 
-# About Game Buddies 
+# About Warrior Gamers 
 ![](https://images.vice.com/vice/images/galleries/meta/2016/10/03/gamers-having-naps-netherlands-biggest-lan-party-876-686-1475509027.jpg)
 
 There are many anti-social gamers at UH Manoa. UH Manoa gamers generally just play with themselves or with their close group of friends prior to college. It is hard to find someone else with the same game interest and time frames of which they can play with each other. Therefore, Game Buddies is an application which tries to help anti-social gamers increase communication and social interaction between each other.  
 
 ![](images/gamebuddieslanding.PNG)
 
-Game Buddies will allow users to find others who want to play a new game that isn't currently found in the database. By allowing the users to actively add information about a particular game, and what types of players it needs, will make Game Buddies evolve as the community grows.  
+Warrior Gamers will allow users to find others who want to play a new game that isn't currently found in the database. By allowing the users to actively add information about a particular game, and what types of players it needs, will make Game Buddies evolve as the community grows.  
 
 ![](images/gamebuddiespro.PNG)
 
-Game Buddies allows students to login and create a profile indicating their gaming tastes, their gaming capabilities, their gaming goals (playing for fun or competitively / against or with each other), and their gaming times. The profile can include links to their gaming profiles containing their IGN, etc. (Ex. Steam, Blizzard, Maplestory, etc).  
+Warrior Gamers allows students to login and create a profile indicating their gaming tastes, their gaming capabilities, their gaming goals (playing for fun or competitively / against or with each other), and their gaming times. The profile can include links to their gaming profiles containing their IGN, etc. (Ex. Steam, Blizzard, Maplestory, etc).  
 
 ![](images/gamebuddiesdict.PNG)
 
