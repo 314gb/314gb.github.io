@@ -1,6 +1,6 @@
 # Table of contents
 * [About Game Buddies](#about-game-buddies)
-* [What will Game Buddies Provide?](#what-will-game-buddies-provide?)
+* [Installation](#installation)
 
 # About Game Buddies 
 ![](https://images.vice.com/vice/images/galleries/meta/2016/10/03/gamers-having-naps-netherlands-biggest-lan-party-876-686-1475509027.jpg)
@@ -18,6 +18,25 @@ Game Buddies allows students to login and create a profile indicating their gami
 ![](images/gamebuddiesdict.PNG)
 
 Once a profile is created, other can browse the profiles filtered by specific gaming tastes, capabilities, goals, and times. Students can also be notified if a match has been found and has the option of contacting the person via the information that the matching person(s) provided.  
+
+# Installation
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of BowFolios](https://github.com/314gb/warrior-gamers), or clone it using git.
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login and test the application.
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
