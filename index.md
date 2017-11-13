@@ -1,4 +1,5 @@
 # Table of contents
+* [Link to 314GB Github Organization] (https://github.com/314gb)
 * [About Warrior Gamers](#about-warrior-gamers)
 * [Installation](#installation)
 * [Development History](#development-history)
@@ -43,7 +44,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 # Development History
 
 ## Milestone 1: Deployment / Landing Page / Mockup Pages
-This milestone started on December 7 and is still a work in progress. The goals of Milestone 1 was to deploy our system to Galaxy, create a landing page, and create four other mockup pages.
+This milestone started on December 7 and is still a work in progress. The goals of Milestone 1 was to deploy our system to Galaxy, create a landing page, and create four other mockup pages. You can find more in detail [here.](https://github.com/314gb/warrior-gamers/projects/1)
 
 ### Deployment
 ![](images/Deployment_ScreenShot.png)
@@ -55,6 +56,9 @@ This is our current landing page so far, it is still a work in progress.
 
 ### Mockup Pages
 This is currently being worked on. Will be updated later.
+
+## Milestone 2: Significant Additional Functionalities
+You can find more in detail [here.](https://github.com/314gb/warrior-gamers/projects/2)
 
 # Support or Contact
 If you have any questions or concerns, please do not hesitate to slack message us @yizan_chen, @kalani_sanidad, @tevin_sales, and @saehyun_song.
