@@ -1,5 +1,5 @@
 # Table of contents
-* [Link to 314GB Github Organization] (https://github.com/314gb)
+* [Link to 314GB Github Organization](https://github.com/314gb)
 * [About Warrior Gamers](#about-warrior-gamers)
 * [Installation](#installation)
 * [Development History](#development-history)
