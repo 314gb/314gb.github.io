@@ -3,8 +3,8 @@
 * [About Warrior Gamers](#about-warrior-gamers)
 * [Installation](#installation)
 * [Development History](#development-history)
-  * [Milestone 1: Deployment / Landing Page / Mockup Pages](#milestone-1:-deployment-/-landing-page-/-mockup-pages)
-  * [Milestone 2: Additional Functionalities](#milestone-2:additional-functionalities)
+  * [Milestone 1: Deployment / Landing Page / Mockup Pages](##milestone-1:-deployment-/-landing-page-/-mockup-pages)
+  * [Milestone 2: Additional Functionalities](##milestone-2:additional-functionalities)
 * [Support or Contact](#support-or-contact)
 
 # About Warrior Gamers 
