@@ -3,8 +3,8 @@
 * [About Warrior Gamers](#about-warrior-gamers)
 * [Installation](#installation)
 * [Development History](#development-history)
-    * [Milestone 1: Deployment / Landing Page / Mockup Pages](#milestone-1:-deployment-/-landing-page-/-mockup-pages)
-    * [Milestone 2: Additional Functionalities](#milestone-2:additional-functionalities)
+    * [Milestone 1: Deployment / Landing Page / Mockup Pages](#milestone-1)
+    * [Milestone 2: Additional Functionalities](#milestone-2)
 * [Support or Contact](#support-or-contact)
 
 # About Warrior Gamers 
@@ -45,7 +45,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 # Development History
 
-## Milestone 1: Deployment / Landing Page / Mockup Pages
+## Milestone 1
 This milestone started on December 7 and is still a work in progress. The goals of Milestone 1 was to deploy our system to Galaxy, create a landing page, and create four other mockup pages. You can find more in detail [here.](https://github.com/314gb/warrior-gamers/projects/1)
 
 ### Deployment
@@ -59,7 +59,7 @@ This is our current landing page so far, it is still a work in progress.
 ### Mockup Pages
 This is currently being worked on. Will be updated later.
 
-## Milestone 2: Additional Functionalities
+## Milestone 2
 You can find more in detail [here.](https://github.com/314gb/warrior-gamers/projects/2)
 
 # Support or Contact
