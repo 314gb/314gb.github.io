@@ -3,7 +3,9 @@
 * [About Warrior Gamers](#about-warrior-gamers)
 * [Installation](#installation)
 * [Development History](#development-history)
-  * [Milestone 1: Deployment / Landing Page / Mockup Pages](#milestone-1)
+  * [Milestone 1: Deployment / Landing Page / Mockup Pages](#milestone-1:-deployment-/-landing-page-/-mockup-pages)
+  * [Milestone 2: Additional Functionalities](#milestone-2:additional-functionalities)
+* [Support or Contact](#support-or-contact)
 
 # About Warrior Gamers 
 ![](https://images.vice.com/vice/images/galleries/meta/2016/10/03/gamers-having-naps-netherlands-biggest-lan-party-876-686-1475509027.jpg)
@@ -57,7 +59,7 @@ This is our current landing page so far, it is still a work in progress.
 ### Mockup Pages
 This is currently being worked on. Will be updated later.
 
-## Milestone 2: Significant Additional Functionalities
+## Milestone 2: Additional Functionalities
 You can find more in detail [here.](https://github.com/314gb/warrior-gamers/projects/2)
 
 # Support or Contact
