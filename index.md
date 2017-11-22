@@ -26,7 +26,7 @@ Warrior Gamers allows students to login and view or create a profile indicating 
 
 ![](images/Profile_Page_Change.png)
 
-Once a profile is created, other can browse the profiles filtered by specific gaming tastes, capabilities, goals, and times. Students can also be notified if a match has been found and has the option of contacting the person via the information that the matching person(s) provided.  
+Once a profile is created, other can browse the profiles filtered by specific gaming tastes, capabilities, goals, and times.
 
 ![](images/Filter_Page.png)
 
@@ -59,11 +59,16 @@ This milestone started on December 7 and is still a work in progress. The goals 
 The deployed website can be found at [http://warriorgamers.meteorapp.com/](http://warriorgamers.meteorapp.com/)
 
 ### Landing Page
-![](images/Landing_Page_Screenshot.png)
-This is our current landing page so far, it is still a work in progress.
+![](images/Landing_Page.png)
 
 ### Mockup Pages
-This is currently being worked on. Will be updated later.
+
+<img width="200px" src="images/Landing_Page.png"/>
+<img width="200px" src="images/Profile_Page_View.png"/>
+<img width="200px" src="images/Profile_Page_Change.png"/>
+<img width="200px" src="images/Filter_Page.png"/>
+<img width="200px" src="images/Game_List_Page.png"/>
+<img width="200px" src="images/Add_Page.png"/>
 
 ## Milestone 2
 You can find more in detail [here.](https://github.com/314gb/warrior-gamers/projects/2)
