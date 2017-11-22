@@ -62,13 +62,25 @@ The deployed website can be found at [http://warriorgamers.meteorapp.com/](http:
 ![](images/Landing_Page.png)
 
 ### Mockup Pages
-
+Mockups for the following six pages were implemented during M1:
 <img width="200px" src="images/Landing_Page.png"/>
 <img width="200px" src="images/Profile_Page_View.png"/>
 <img width="200px" src="images/Profile_Page_Change.png"/>
 <img width="200px" src="images/Filter_Page.png"/>
 <img width="200px" src="images/Game_List_Page.png"/>
 <img width="200px" src="images/Add_Page.png"/>
+
+Milestone 1 was implemented as [Warrior Gamers GitHub Milestone M1](https://github.com/314gb/warrior-gamers/milestone/1):
+
+![](images/Milestone1_Page.png)
+
+Milestone 1 consisted of twelve issues, and progress was managed via the [Warrior GitHub Project M1](https://github.com/314gb/warrior-gamers/projects/1):
+
+![](images/Projects_Page.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/Network_Page.png)
 
 ## Milestone 2
 You can find more in detail [here.](https://github.com/314gb/warrior-gamers/projects/2)
