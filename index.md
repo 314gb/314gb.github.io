@@ -2,6 +2,8 @@
 * [Link to 314GB Github Organization](https://github.com/314gb)
 * [Link to the Warrior Gamers website](http://warriorgamers.meteorapp.com/)
 * [About Warrior Gamers](#about-warrior-gamers)
+  * [Overview](#overview)
+  * [User Guide](#user-guide)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -24,8 +26,10 @@
 # About Warrior Gamers 
 ![](https://images.vice.com/vice/images/galleries/meta/2016/10/03/gamers-having-naps-netherlands-biggest-lan-party-876-686-1475509027.jpg)
 
+## Overview
 There are many anti-social gamers at UH Manoa. UH Manoa gamers generally just play with themselves or with their close group of friends prior to college. It is hard to find someone else with the same game interest and time frames of which they can play with each other. Therefore, Game Buddies is an application which tries to help anti-social gamers increase communication and social interaction between each other.  
 
+## User Guide
 ![](images/Landing_Page.png)
 [Landing Page Link](http://warriorgamers.meteorapp.com/)
 
