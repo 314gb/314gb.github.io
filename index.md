@@ -60,19 +60,35 @@ with the Runescape tag attached to their profile.
 
 ![](images/Game_List_Page.png)
 This is the [Game List Page](http://warriorgamers.meteorapp.com/saehyuns/game) of the 
-Warrior Gamers App. 
+Warrior Gamers App. It contains the various games that are currently in the database. 
+It contains the game picture, the title of the game, the game description, and tags
+related to the game. In case you're curious on what the tags do, you can click on them
+and it will take you to a google search of that definition. You may also search for certain
+games with certain tags related to it.
 
 ![](images/Game_List_Selected_Page.png)
-[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
+This is an example of what happens when you search "Survival" on the page. It will 
+show all games with the Survival tag in it.
 
 ![](images/Event_List_Page.png)
-[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
+This is the [Event List Page](http://warriorgamers.meteorapp.com/saehyuns/event) of the
+Warrior Gamers App. It contains all the events that are currently happening on campus.
+It contains the picture, title, information, and description of the event along with
+game tags related to the event.
 
 ![](images/Add_Event_Page.png)
-[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
+This is the [Add Event Page](http://warriorgamers.meteorapp.com/saehyuns/addEvent) of the
+Warrior Gamers App. It will contain a form for users to be able to add an event for other
+players to see and possibly attend. It will require a name, picture, date, phone, time,
+location, games, and descriptions associated with that event. You will have to put specific
+input by following the placeholder in the field. Otherwise, it will not allow you to add it. 
+It will be monitored and removed if inappropriate.
 
 ![](images/Add_Game_Page.png)
-[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
+This is the [Add Game Page](http://warriorgamers.meteorapp.com/saehyuns/addGame) of the
+Warrior Gamers App. It will contain a form for users to be able to add a game for other
+players to see. It will require a name, picture, link to the website, description, and tags related
+to the game. It will be monitored and removed if inappropriate.
 
 # Community Feedback
 -
