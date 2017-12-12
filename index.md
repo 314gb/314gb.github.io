@@ -34,26 +34,32 @@ There are many anti-social gamers at UH Manoa. UH Manoa gamers generally just pl
 ![](images/Landing_Page.png)
 [Landing Page Link](http://warriorgamers.meteorapp.com/)
 
+![](images/View_Profile_Page.png)
+[Add Page Link](http://warriorgamers.meteorapp.com/saehyuns/add)
+
+![](images/Edit_Profile_Page.png)
+[Add Page Link](http://warriorgamers.meteorapp.com/saehyuns/add)
+
+![](images/Browse_People_Page.png)
+[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
+
+![](images/Browse_People_Selected_Page.png)
+[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
+
 ![](images/Game_List_Page.png)
 [Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
 
-Warrior Gamers will allow users to find others who want to play a new game that isn't currently found in the database. By allowing the users to actively add information about a particular game, and what types of players it needs, will make Game Buddies evolve as the community grows.  
+![](images/Game_List_Selected_Page.png)
+[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
 
-![](images/Add_Page.png)
-[Add Page Link](http://warriorgamers.meteorapp.com/saehyuns/add)
+![](images/Event_List_Page.png)
+[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
 
-Warrior Gamers allows students to login and view or create a profile indicating their gaming tastes, their gaming capabilities, their gaming goals (playing for fun or competitively / against or with each other), and their gaming times. The profile can include links to their gaming profiles containing their IGN, etc. (Ex. Steam, Blizzard, Maplestory, etc).  
+![](images/Add_Event_Page.png)
+[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
 
-![](images/Profile_Page_View.png)
-[Profile Page Link](http://warriorgamers.meteorapp.com/saehyuns/gamer-profile)
-
-![](images/Profile_Page_Change.png)
-[Profile Page Link](http://warriorgamers.meteorapp.com/saehyuns/gamer-profile)
-
-Once a profile is created, other can browse the profiles filtered by specific gaming tastes, capabilities, goals, and times.
-
-![](images/Filter_Page.png)
-[Filter Page Link](http://warriorgamers.meteorapp.com/saehyuns/filter)
+![](images/Add_Game_Page.png)
+[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
 
 # Community Feedback
 -
