@@ -32,22 +32,35 @@ There are many anti-social gamers at UH Manoa. UH Manoa gamers generally just pl
 
 ## User Guide
 ![](images/Landing_Page.png)
-[Landing Page Link](http://warriorgamers.meteorapp.com/)
+This is the [Landing Page](http://warriorgamers.meteorapp.com/) for the Warrior Gamers
+app. It contains a brief slideshow of what the application contains.
 
 ![](images/View_Profile_Page.png)
-[Add Page Link](http://warriorgamers.meteorapp.com/saehyuns/add)
+This is the [View Profile Page](http://warriorgamers.meteorapp.com/saehyuns/gamer-profile) for
+the Warrior Gamers app. It contains your profile that you have created. Your name at
+the top, biography, the games that you play, and your profiles for steam, blizzard, and 
+summoner profiles taking you to the respective links that are related. For example, 
+clicking on your summer profile name will take you to your op.gg profile page.
 
 ![](images/Edit_Profile_Page.png)
-[Add Page Link](http://warriorgamers.meteorapp.com/saehyuns/add)
+This is the [Change Profile Page](http://warriorgamers.meteorapp.com/saehyuns/gamer-profile)
+of the Warrior Gamers App. It contains the form in which you need to fill our in order
+to create your profile. Your profile information will be available to other people using
+the application. So if they are interested in playing with you, they can contact you.
 
 ![](images/Browse_People_Page.png)
-[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
+This is the [Browse Page](http://warriorgamers.meteorapp.com/saehyuns/filter) of the
+Warrior Gamers App. It initially contains all the people in the database. You can choose
+to narrow down your search based off games. It will show all profiles with the related games.
+It also contains events in which you can search for based off of the game you are interested in.
 
 ![](images/Browse_People_Selected_Page.png)
-[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
+For example, if you search for Runescape, it will reduce the profiles to only show people
+with the Runescape tag attached to their profile.
 
 ![](images/Game_List_Page.png)
-[Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
+This is the [Game List Page](http://warriorgamers.meteorapp.com/saehyuns/game) of the 
+Warrior Gamers App. 
 
 ![](images/Game_List_Selected_Page.png)
 [Game List Page Link](http://warriorgamers.meteorapp.com/saehyuns/game)
