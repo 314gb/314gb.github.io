@@ -5,8 +5,8 @@
   * [Overview](#overview)
   * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
-* [Installation](#installation)
-* [Application design](#application-design)
+* [Developer Guide](#developer-guide)
+  * [Installation](#installation)
   * [Directory structure](#directory-structure)
   * [Import conventions](#import-conventions)
   * [Naming conventions](#naming-conventions)
@@ -96,7 +96,9 @@ to the game. It will be monitored and removed if inappropriate.
 
 -
 
-# Installation
+# Developer Guide
+
+## Installation
 First, [install Meteor](https://www.meteor.com/install).
 
 Second, [download a copy of Warrior Gamers](https://github.com/314gb/warrior-gamers), or clone it using git.
@@ -114,8 +116,6 @@ $ meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login and test the application.
-
-# Application Design
 
 ## Directory structure
 
