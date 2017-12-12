@@ -334,7 +334,7 @@ I20171121-22:47:46.812(-10)? Load the app in a browser to run client tests, or s
 # Development History
 
 ## Milestone 1
-This milestone started on December 7 and is still a work in progress. The goals of Milestone 1 was to deploy our system to Galaxy, create a landing page, and create four other mockup pages. You can find more in detail [here.](https://github.com/314gb/warrior-gamers/projects/1)
+This milestone started on November 7, 2017 and was finished on November 22, 2017. The goals of Milestone 1 was to deploy our system to Galaxy, create a landing page, and create four other mockup pages. You can find more in detail [here.](https://github.com/314gb/warrior-gamers/projects/1)
 
 ### Deployment
 ![](images/Deployment_ScreenShot.png)
@@ -365,7 +365,20 @@ Each issue was implemented in its own branch, and merged into master when comple
 ![](images/Network_Page.png)
 
 ## Milestone 2
-Issues expected to be addressed during the second Milestone for this project can be found [here.](https://github.com/314gb/warrior-gamers/projects/2)
+This milestone started on November 22, 2017 and was finished on December 13, 2017. Issues expected to be addressed during the second Milestone for this project can be found [here.](https://github.com/314gb/warrior-gamers/projects/2)The main goal of Milestone 2 was to significantly improve the functionality and quality of our application and significantly improve our software engineering process beyond M1. 
+
+More specifically, it was to implement the data model using MongoDB. We implemented the data model as a set of Javascript classes. The BaseCollection class provides common fields and operations. The GameCollection, GamerProfileCollection, EventCollection, and the Tags collection classes inherit from BaseCollection and provide the persistent data structures useful for Warrior Gamers. 
+
+Using that underlying data model and connecting it to the user interface. This meant that we updated the templates for each page with calls to helper functions and created Javascript files for the templates. We had used the form control templates from [meteor-example-form](https://ics-software-engineering.github.io/meteor-example-form/) to help simplify implementation of form processing.
+
+Milestone 2 was implemented as [Warrior Gamers GitHub Milestone M2](https://github.com/314gb/warrior-gamers/milestone/2):
+![](images/Milestone2_Page.png)
+
+Milestone 2 consisted of seven issues, and progress was managed via the [Warrior GitHub Project M2](https://github.com/314gb/warrior-gamers/projects/2):
+![](images/Project2_Page.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+![](images/Network_Graph2.png)
 
 # Support or Contact
 If you have any questions or concerns, please do not hesitate to slack message us @yizan_chen, @kalani_sanidad, @tevin_sales, and @saehyun_song.
