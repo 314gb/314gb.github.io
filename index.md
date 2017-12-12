@@ -4,6 +4,7 @@
 * [About Warrior Gamers](#about-warrior-gamers)
   * [Overview](#overview)
   * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -53,6 +54,12 @@ Once a profile is created, other can browse the profiles filtered by specific ga
 
 ![](images/Filter_Page.png)
 [Filter Page Link](http://warriorgamers.meteorapp.com/saehyuns/filter)
+
+# Community Feedback
+-
+
+
+-
 
 # Installation
 First, [install Meteor](https://www.meteor.com/install).
