@@ -347,7 +347,6 @@ The deployed website can be found at [http://warriorgamers.meteorapp.com/](http:
 Mockups for the following six pages were implemented during M1 (Links are provided above):
 <img width="200px" src="images/Landing_Page.png"/>
 <img width="200px" src="images/Browse_People_Page.png"/>
-<img width="200px" src="images/Browse_Events_Page.png"/>
 <img width="200px" src="images/Game_List_Page.png"/>
 <img width="200px" src="images/Event_List_Page.png"/>
 <img width="200px" src="images/Add_Game_Page.png"/>
