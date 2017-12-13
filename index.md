@@ -101,6 +101,7 @@ send in a form and tell us how you experienced out website. The link is provided
 
 -
 A summary of the feedback:
+
 We surveyed over 6  UH gamers for their experience on the site. 
 The average overall rating of the site is 4/5, and over half would recommend to other. Some liked key aspects are the links to player's stats, the number of available game/event, the ease to add game/event and the idea of a UH gamers site. But they would like improvement in the data filling page and the UI of the site in the future. Some also recommended adjusting the current color scheme and the text style.  
 
