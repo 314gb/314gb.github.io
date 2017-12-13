@@ -24,7 +24,7 @@
     * [Milestone 2: Additional Functionalities](#milestone-2)
 * [Support or Contact](#support-or-contact)
 
-# About Warrior Gamers 
+# About Warrior Gamers
 ![](https://images.vice.com/vice/images/galleries/meta/2016/10/03/gamers-having-naps-netherlands-biggest-lan-party-876-686-1475509027.jpg)
 
 ## Overview
@@ -38,8 +38,8 @@ app. It contains a brief slideshow of what the application contains.
 ![](images/View_Profile_Page.png)
 This is the [View Profile Page](http://warriorgamers.meteorapp.com/saehyuns/gamer-profile) for
 the Warrior Gamers app. It contains your profile that you have created. Your name at
-the top, biography, the games that you play, and your profiles for steam, blizzard, and 
-summoner profiles taking you to the respective links that are related. For example, 
+the top, biography, the games that you play, and your profiles for steam, blizzard, and
+summoner profiles taking you to the respective links that are related. For example,
 clicking on your summer profile name will take you to your op.gg profile page.
 
 ![](images/Edit_Profile_Page.png)
@@ -59,15 +59,15 @@ For example, if you search for Runescape, it will reduce the profiles to only sh
 with the Runescape tag attached to their profile.
 
 ![](images/Game_List_Page.png)
-This is the [Game List Page](http://warriorgamers.meteorapp.com/saehyuns/game) of the 
-Warrior Gamers App. It contains the various games that are currently in the database. 
+This is the [Game List Page](http://warriorgamers.meteorapp.com/saehyuns/game) of the
+Warrior Gamers App. It contains the various games that are currently in the database.
 It contains the game picture, the title of the game, the game description, and tags
 related to the game. In case you're curious on what the tags do, you can click on them
 and it will take you to a google search of that definition. You may also search for certain
 games with certain tags related to it.
 
 ![](images/Game_List_Selected_Page.png)
-This is an example of what happens when you search "Survival" on the page. It will 
+This is an example of what happens when you search "Survival" on the page. It will
 show all games with the Survival tag in it.
 
 ![](images/Event_List_Page.png)
@@ -81,7 +81,7 @@ This is the [Add Event Page](http://warriorgamers.meteorapp.com/saehyuns/addEven
 Warrior Gamers App. It will contain a form for users to be able to add an event for other
 players to see and possibly attend. It will require a name, picture, date, phone, time,
 location, games, and descriptions associated with that event. You will have to put specific
-input by following the placeholder in the field. Otherwise, it will not allow you to add it. 
+input by following the placeholder in the field. Otherwise, it will not allow you to add it.
 It will be monitored and removed if inappropriate.
 
 ![](images/Add_Game_Page.png)
@@ -92,7 +92,12 @@ to the game. It will be monitored and removed if inappropriate.
 
 # Community Feedback
 -
+[Response to the Forms](https://docs.google.com/forms/d/e/1FAIpQLSfgNF_XJXuQxkBdsa10PSCH-sOLw1ZpymlG04vkcrOuvkOygA/viewanalytics)
 
+The Warrior gamers have taken a liking to how we created the website. If you would like to
+send in a form and tell us how you experienced out website. The link is provided below.
+
+[Link to the Google Form](https://goo.gl/forms/tdTR7vkoPSq2oGeJ2)
 
 -
 
@@ -102,7 +107,7 @@ to the game. It will be monitored and removed if inappropriate.
 First, [install Meteor](https://www.meteor.com/install).
 
 Second, [download a copy of Warrior Gamers](https://github.com/314gb/warrior-gamers), or clone it using git.
-  
+
 Third, cd into the app/ directory and install libraries with:
 
 ```
@@ -135,7 +140,7 @@ The app/ directory has this top-level structure:
 client/
   lib/           # holds Semantic UI files.
   head.html      # the <head>
-  main.js        # import all the client-side html and js files. 
+  main.js        # import all the client-side html and js files.
 
 imports/
   api/           # Define collection processing code (client + server side)
@@ -158,7 +163,7 @@ private/
 
 public/          
   images/        # holds static images for landing page and predefined sample users.
-  
+
 server/
    main.js       # import all the server-side js files.
 ```
@@ -197,10 +202,10 @@ import '/imports/api/interest';
 
 Apart from the last line that imports style.css directly, the other lines all invoke the index.js file in the specified directory.
 
-We use this approach to make it more simple to understand what code is loaded and in what order, and to simplify debugging when some code or templates do not appear to be loaded.  In our approach, there are only two places to look for top-level imports: the main.js files in client/ and server/, and the index.js files in import subdirectories. 
+We use this approach to make it more simple to understand what code is loaded and in what order, and to simplify debugging when some code or templates do not appear to be loaded.  In our approach, there are only two places to look for top-level imports: the main.js files in client/ and server/, and the index.js files in import subdirectories.
 
-Note that this two-level import structure ensures that all code and templates are loaded, but does not ensure that the symbols needed in a given file are accessible.  So, for example, a symbol bound to a collection still needs to be imported into any file that references it. 
- 
+Note that this two-level import structure ensures that all code and templates are loaded, but does not ensure that the symbols needed in a given file are accessible.  So, for example, a symbol bound to a collection still needs to be imported into any file that references it.
+
 ## Naming conventions
 
 This system adopts the following naming conventions:
@@ -214,21 +219,21 @@ This system adopts the following naming conventions:
 
 ## Data model
 
-The Warrior Gamers data model is implemented by two Javascript classes: [GamerProfileCollection.js](https://github.com/314gb/warrior-gamers/blob/master/app/imports/api/profile/GamerProfileCollection.js) and [GameCollection](https://github.com/314gb/warrior-gamers/blob/master/app/imports/api/interest/GameCollection.js). Both of these classes encapsulate a MongoDB collection with the same name and export a single variable (GamerProfiles and GameCollection) that provides access to that collection. 
+The Warrior Gamers data model is implemented by two Javascript classes: [GamerProfileCollection.js](https://github.com/314gb/warrior-gamers/blob/master/app/imports/api/profile/GamerProfileCollection.js) and [GameCollection](https://github.com/314gb/warrior-gamers/blob/master/app/imports/api/interest/GameCollection.js). Both of these classes encapsulate a MongoDB collection with the same name and export a single variable (GamerProfiles and GameCollection) that provides access to that collection.
 
 Any part of the system that manipulates the BowFolios data model imports the Profiles or Interests variable, and invokes methods of that class to get or set data.
 
 There are many common operations on MongoDB collections. To simplify the implementation, the GamerProfileCollection and GameCollection classes inherit from the [BaseCollection](https://github.com/314gb/warrior-gamers/blob/master/app/imports/api/base/BaseCollection.js) class.
 
-The [BaseUtilities](https://github.com/314gb/warrior-gamers/blob/master/app/imports/api/base/BaseUtilities.js) file contains functions that operate across both classes. 
+The [BaseUtilities](https://github.com/314gb/warrior-gamers/blob/master/app/imports/api/base/BaseUtilities.js) file contains functions that operate across both classes.
 
 ## CSS
 
 The application uses the [Semantic UI](http://semantic-ui.com/) CSS framework. To learn more about the Semantic UI theme integration with Meteor, see [Semantic-UI-Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor).
 
-The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://github.com/ics-software-engineering/meteor-application-template/tree/master/app/client/lib/semantic-ui) directory. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory). 
+The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://github.com/ics-software-engineering/meteor-application-template/tree/master/app/client/lib/semantic-ui) directory. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory).
 
-Note that the user pages contain a menu fixed to the top of the page, and thus the body element needs to have padding attached to it.  However, the landing page does not have a menu, and thus no padding should be attached to the body element on that page. To accomplish this, the [router](https://github.com/bowfolios/bowfolios/blob/master/app/imports/startup/client/router.js) uses "triggers" to add an remove the appropriate classes from the body element when a page is visited and then left by the user. 
+Note that the user pages contain a menu fixed to the top of the page, and thus the body element needs to have padding attached to it.  However, the landing page does not have a menu, and thus no padding should be attached to the body element on that page. To accomplish this, the [router](https://github.com/bowfolios/bowfolios/blob/master/app/imports/startup/client/router.js) uses "triggers" to add an remove the appropriate classes from the body element when a page is visited and then left by the user.
 
 ## Routing
 
@@ -248,7 +253,7 @@ BowFolios defines the following routes:
 
 For authentication, the application uses the University of Hawaii CAS test server, and follows the approach shown in [meteor-example-uh-cas](http://ics-software-engineering.github.io/meteor-example-uh-cas/).
 
-When the application is run, the CAS configuration information must be present in a configuration file such as  [config/settings.development.json](https://github.com/ics-software-engineering/meteor-application-template/blob/master/config/settings.development.json). 
+When the application is run, the CAS configuration information must be present in a configuration file such as  [config/settings.development.json](https://github.com/ics-software-engineering/meteor-application-template/blob/master/config/settings.development.json).
 
 Anyone with a UH account can login and use WarriorGamers to create a gamer profile.  A gamer profile is created for them if none already exists for that username.
 
@@ -258,7 +263,7 @@ Only the landing page is available to the public.
 
 In order to access the pages besides the landing page: you must be logged in (i.e. authenticated) through the UH test CAS server, and the authenticated username returned by CAS must match the username specified in the URL.  So, for example, only the authenticated user `johnson` can access the pages `http://localhost:3000/johnson/profile` and  `http://localhost:3000/johnson/filter`.
 
-To prevent people from accessing pages they are not authorized to visit, template-based authorization is used following the recommendations in [Implementing Auth Logic and Permissions](https://kadira.io/academy/meteor-routing-guide/content/implementing-auth-logic-and-permissions). 
+To prevent people from accessing pages they are not authorized to visit, template-based authorization is used following the recommendations in [Implementing Auth Logic and Permissions](https://kadira.io/academy/meteor-routing-guide/content/implementing-auth-logic-and-permissions).
 
 The application implements template-based authorization using an If_Authorized template, defined in [If_Authorized.html](https://github.com/bowfolios/bowfolios/blob/master/app/imports/ui/layouts/user/if-authorized.html) and [If_Authorized.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/ui/layouts/user/if-authorized.js).
 
@@ -367,9 +372,9 @@ Each issue was implemented in its own branch, and merged into master when comple
 ![](images/Network_Page.png)
 
 ## Milestone 2
-This milestone started on November 22, 2017 and was finished on December 13, 2017. Issues expected to be addressed during the second Milestone for this project can be found [here.](https://github.com/314gb/warrior-gamers/projects/2)The main goal of Milestone 2 was to significantly improve the functionality and quality of our application and significantly improve our software engineering process beyond M1. 
+This milestone started on November 22, 2017 and was finished on December 13, 2017. Issues expected to be addressed during the second Milestone for this project can be found [here.](https://github.com/314gb/warrior-gamers/projects/2)The main goal of Milestone 2 was to significantly improve the functionality and quality of our application and significantly improve our software engineering process beyond M1.
 
-More specifically, it was to implement the data model using MongoDB. We implemented the data model as a set of Javascript classes. The BaseCollection class provides common fields and operations. The GameCollection, GamerProfileCollection, EventCollection, and the Tags collection classes inherit from BaseCollection and provide the persistent data structures useful for Warrior Gamers. 
+More specifically, it was to implement the data model using MongoDB. We implemented the data model as a set of Javascript classes. The BaseCollection class provides common fields and operations. The GameCollection, GamerProfileCollection, EventCollection, and the Tags collection classes inherit from BaseCollection and provide the persistent data structures useful for Warrior Gamers.
 
 Using that underlying data model and connecting it to the user interface. This meant that we updated the templates for each page with calls to helper functions and created Javascript files for the templates. We had used the form control templates from [meteor-example-form](https://ics-software-engineering.github.io/meteor-example-form/) to help simplify implementation of form processing.
 
