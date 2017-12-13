@@ -97,7 +97,7 @@ to the game. It will be monitored and removed if inappropriate.
 The Warrior gamers have taken a liking to how we created the website. If you would like to
 send in a form and tell us how you experienced out website. The link is provided below.
 
-[Link to the Google Form](https://goo.gl/forms/tdTR7vkoPSq2oGeJ2)
+[Link to the Google Form](https://goo.gl/forms/2ZHzdP5C6Uu1burJ3)
 
 -
 
